@@ -1,0 +1,10 @@
+transformers
+datasets
+evaluate
+rouge_score
+loralib
+peft
+scikit-learn
+seaborn
+matplotlib
+tensorflow
